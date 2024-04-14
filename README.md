@@ -13,6 +13,10 @@
 
 </div>
 <div align="center">
-  <h2>Random Readme Jokes 😇</h2>
+  <h2>Random Readme Fun 😇</h2>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&animation=grow_out_in&layout=churchill&font=default&fontColor=gold&bgColor=black)
+  
 </div>
+
