@@ -1,5 +1,5 @@
 <div align="center">
-![image](https://github.com/oza95/oza95/assets/156414634/6a65ed91-29e4-405f-b997-00b2cb953125)
+  <img src="https://github.com/oza95/oza95/assets/156414634/6a65ed91-29e4-405f-b997-00b2cb953125">
 </div>
 
 <h2 align="center">My Stats</h2>
