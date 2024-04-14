@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://github.com/oza95/oza95/assets/156414634/6a65ed91-29e4-405f-b997-00b2cb953125">
+  <img src="https://github.com/oza95/oza95/assets/156414634/a45fb197-ae62-4c05-a21c-e78d846ac640">
+
+  
 </div>
 
 <h2 align="center">My Stats</h2>
